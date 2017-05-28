@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing difference btn the two vwrsions of code r=makes it really easy for 
+    me to find the errors in my code and even in corrrecting them.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Well,Easy acess to entire history is very useful as it make us to the earlier 
+    version easily and reminded me what i thought earlier.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+     If we manually choose when to commet then there may be chances of choosing 
+     wrong time for commet like bit too early or late .On the Other hand advantage
+     choosing comit manually is we can commit whenever we make a big change in the 
+     code.
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Well, Git allows us to save multiple files as in coding there may be some 
+    files that may be interrelated and will be called one by other in that case allowing 
+    multiple files in a commit  is useful.
+How can you use the commands git log and git diff to view the history of files?
+
+    git log will show all the commits we have and and the comment associated with each
+    commit and git diff will help us in compairing the differnt commits with the help
+    of commit id .
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Well if we have version control we wil not have a fear of not getting back
+    the original thing .By using version control we can freely change whatever we
+    want without having fear of lossing the original code .
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Well , I will use git hub first for some sample projects and then for my own 
+    projects.
